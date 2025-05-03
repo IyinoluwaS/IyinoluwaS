@@ -36,3 +36,8 @@ I’m always open to feedback, discussions, and collaboration. If you’re ahead
 Feel free to reach out via GitHub or LinkedIn. Let’s build and learn together!
 
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyinoluwas&" alt="iyinoluwas" /></p>
+
+
+
